@@ -1,0 +1,26 @@
+.item-list .list-group-item {
+  cursor: pointer;
+  text-align: justify;
+  padding-left: 50px;
+  font-size: 22px;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}
+
+.item-list-wrapper {
+  margin: 4rem;
+  max-height: 750px;
+  overflow: auto;
+}
+
+.pokemon-id {
+  font-size: 18px;
+}
+
+.pokemon-image-list {
+  padding-left: 100px;
+  height: 75px;
+  text-align: center;
+}

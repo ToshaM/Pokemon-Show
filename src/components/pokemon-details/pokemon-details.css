@@ -1,0 +1,25 @@
+.pokemon-details {
+    display: flex;
+    margin: 4rem;
+    flex-direction: row;
+    padding: 1rem;
+  }
+  
+  .pokemon-details .pokemon-image {
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+  }
+  
+  .pokemon-details .list-group-item {
+    padding: 0.25rem;
+  }
+  
+  .pokemon-details .list-group-item .term {
+    margin-right: 0.5rem;
+  }
+
+  .pokemon-image-list {
+    height: 125px;
+  }
+  
